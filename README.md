@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la programación y estoy constantemente aprendiendo y creciendo en este emocionante campo. Aquí te cuento un poco sobre mí:
 
-- 💻 Actualmente estoy enfocado en aprender Node.js para desarrollar aplicaciones web más dinámicas y escalables.
+- 💻 Actualmente estoy enfocado en aprender Express para desarrollar aplicaciones web más dinámicas y escalables.
 - 🤝 Estoy buscando oportunidades de colaboración como practicante en proyectos interesantes. ¡Me encantaría ser parte de tu equipo!
 - ✉️ Puedes ponerte en contacto conmigo en [ed.gualle@gmail.com](mailto:ed.gualle@gmail.com).
 
