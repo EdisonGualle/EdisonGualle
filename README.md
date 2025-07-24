@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenido, soy Edison Gualle 👋</h1>
 <p align="center">
-  👨‍💻 Ingeniero en Software · 🚀 Desarrollador Full Stack · 💡 Apasionado por la tecnología
+  👨‍💻 Ingeniero de Software · 🚀 Desarrollador Full Stack · 💡 Apasionado por la tecnología
 </p>
 
 ---
