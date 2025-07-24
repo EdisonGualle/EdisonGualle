@@ -7,7 +7,7 @@
 
 ## Sobre mí
 
-🎓 Ingeniero en Software con enfoque en desarrollo de soluciones web modernas, escalables y bien estructuradas.  
+🎓 Ingeniero de Software con enfoque en desarrollo de soluciones web modernas, escalables y bien estructuradas.  
 💻 Me apasiona el desarrollo tanto frontend como backend, siempre aplicando buenas prácticas.  
 ⚙️ Me motiva automatizar procesos, mejorar flujos de trabajo y escribir código claro y mantenible.  
 🤝 Disfruto colaborar en equipo y aportar soluciones de valor.  
@@ -44,5 +44,10 @@
 
 ---
 
-> “Nunca dejo de aprender. Siempre busco la forma de mejorar como profesional y como persona.”  
-> ✨ ¡Gracias por visitar mi perfil! 🚀
+<p align="center">
+  <em>✨ Siempre en evolución, siempre creando. ¡Nos vemos en el código! 🚀</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</p>
