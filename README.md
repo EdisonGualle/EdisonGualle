@@ -18,7 +18,7 @@
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=EdisonGualle" alt="Racha de contribuciones"/>
+  <img src="https://streak-stats.demolab.com?user=EdisonGualle&theme=tokyonight&hide_border=true&ring=FF9F00&fire=FF9F00&currStreakLabel=FF9F00" alt="Racha de contribuciones"/>
 </p>
 
 ---
